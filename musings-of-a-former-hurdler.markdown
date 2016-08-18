@@ -1,7 +1,6 @@
 ---
 title: Musings of a former hurdler
 date: 2016-08-18 06:36:00 Z
-published: false
 ---
 
 ---
